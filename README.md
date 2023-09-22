@@ -14,6 +14,3 @@
 - Use the "TableSetup.sql" file to create the tables necessary for this database
 - Change your CSV files to include whatever data entries you'd like. Make sure that they follow the appropriate formats per tables.
 - Run the Java file
-
-<b>III. VIDEO OF APP IN ACTION:</b>
-- 
